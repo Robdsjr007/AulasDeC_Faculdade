@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <locale.h>
-#include <math.h>
 
 int main() {
     float capital_inicial, taxa_juros_anual, saldo_investimento;
